@@ -35,4 +35,5 @@ figure{
 #details div {
   float: left;
   background-color: blue;
+  text-align: center;
 }
