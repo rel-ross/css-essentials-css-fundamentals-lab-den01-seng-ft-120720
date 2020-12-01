@@ -11,3 +11,6 @@ a {
 figure{
   font-size: 10px;
 }
+#featured-property p {
+  width: 800px;
+}
