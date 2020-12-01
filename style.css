@@ -24,6 +24,6 @@ figure{
 }
 
 #featured-property p {
-  text-align: center;
+  align-content: center;
   width: 800px;
 }
