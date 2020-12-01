@@ -11,6 +11,9 @@ a {
 figure{
   font-size: 10px;
 }
+p {
+  text-align: centered;
+}
 #featured-property p {
   text-align: center;
   width: 800px;
