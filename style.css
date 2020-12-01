@@ -29,3 +29,6 @@ figure{
 #featured-property p {
   width: 800px;
 }
+#details {
+  display: block;
+}
